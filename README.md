@@ -27,10 +27,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>    
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </p>
 
 <p align="right">
@@ -50,6 +46,21 @@
   <span>Operating Systems</span><br><br>
 <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</p>
+
+<p align="center">
+  <span>Others</span><br><br>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>    
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="git" width="40" height="40"/>
+  <img src="https://devicon.dev/devicon.git/icons/pycharm/pycharm-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="git" width="40" height="40"/>
+  
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameem420&layout=compact&top_langs=8" alt="sameem420" /></p>
