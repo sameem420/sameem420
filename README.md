@@ -1,6 +1,7 @@
 ## Hi, I am Sameem 👋, a Developer :rocket: from Pakistan :pakistan:
 
-house I’m currently living at Pakistan vietnam.
+:computer:
+
 
 🌱 I’m currently learning Rust, React
 
