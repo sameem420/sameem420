@@ -1,4 +1,6 @@
-## Hi there, I am Sameem 👋
+## Hello there, I am Sameem 👋
+
+> 😄 Pronouns: He/Him/His
 
 🌱 I’m currently learning Rust, React
 
