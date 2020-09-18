@@ -1,4 +1,4 @@
-## Hi, I am Sameem 👋, a Developer :rocket from Brazil :pk.
+## Hi, I am Sameem 👋, a Developer :rocket: from Pakistan :pakistan:
 
 house I’m currently living at Pakistan vietnam.
 
