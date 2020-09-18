@@ -1,5 +1,9 @@
 ## Hi there, I am Sameem 👋
 
+🌱 I’m currently learning Rust, React
+
+📫 How to reach me: sameemgujjar123@yahoo.com
+
 <!--
 **sameem420/sameem420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
