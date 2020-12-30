@@ -1,7 +1,7 @@
 ## Hi, I'm Sameem 👋, a Developer :rocket: from Pakistan :pakistan:
 
 
-![](https://infinitefreetime.files.wordpress.com/2015/11/eqjairy.gif)
+![](https://i.gifer.com/OOqm.gif)
 
 - - - -
 
