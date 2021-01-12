@@ -25,16 +25,16 @@
 
 <p align="center"> 
   <span>Programming Languages</span><br><br>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+<img src="https://symbols.getvecta.com/stencil_94/125_rust-language.80a1b7141d.png" alt="rust" width="40" height="40"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/python-2-logo-png-transparent.png" alt="python" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/c-sharp-2-569585.png" alt="csharp" width="40" height="40"/> 
 </p>
 
 <p align="right">
   <span>Back-End</span><br><br>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png" alt="django" width="40" height="40"/>
+<img src="https://e7.pngegg.com/pngimages/508/316/png-clipart-flask-by-example-python-web-framework-bottle-bottle-white-black-thumbnail.png" alt="flask" width="40" height="40"/>
+<img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/>
 </p>
 
 <p align="center">
