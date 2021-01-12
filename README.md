@@ -32,21 +32,23 @@
 
 <p align="right">
   <span>Back-End</span><br><br>
-<img src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png" alt="django" width="40" height="40"/>
-<img src="https://e7.pngegg.com/pngimages/508/316/png-clipart-flask-by-example-python-web-framework-bottle-bottle-white-black-thumbnail.png" alt="flask" width="40" height="40"/>
-<img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png" alt="django" width="40" height="40"/>
+  <img src="https://e7.pngegg.com/pngimages/508/316/png-clipart-flask-by-example-python-web-framework-bottle-bottle-white-black-thumbnail.png" alt="flask" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/>
 </p>
 
 <p align="center">
   <span>Databases</span><br><br>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="sql server" width="40" height="40"/>
+  <img src="https://banner2.cleanpng.com/20180603/sjv/kisspng-sqlite-relational-database-management-system-redis-square-icon-5b1399d37442c3.5586364215280112194762.jpg" alt="sqlite" width="40" height="40"/>
 </p>
 
 <p align="center">
   <span>Operating Systems</span><br><br>
-<img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://icons-for-free.com/iconfiles/png/512/logo+microsoft+microsoft+logo+technology+windows+icon-1320167831167856453.png" alt="windows" width="42" height="42"/>
+  <img src="https://www.vhv.rs/dpng/d/47-474644_linux-ubuntu-logo-png-transparent-png.png" alt="linux" width="45" height="42"/>
 </p>
 
 <p align="center">
