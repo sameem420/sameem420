@@ -33,7 +33,7 @@
 <p align="right">
   <span>Back-End</span><br><br>
   <img src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png" alt="django" width="40" height="40"/>
-  <img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" alt="flask" width="45" height="40"/>
+  <img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" alt="flask" width="72" height="40"/>
   <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/>
 </p>
 
