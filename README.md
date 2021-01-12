@@ -48,7 +48,7 @@
 <p align="center">
   <span>Operating Systems</span><br><br>
   <img src="https://icons-for-free.com/iconfiles/png/512/logo+microsoft+microsoft+logo+technology+windows+icon-1320167831167856453.png" alt="windows" width="42" height="42"/>
-  <img src="https://www.vhv.rs/dpng/d/47-474644_linux-ubuntu-logo-png-transparent-png.png" alt="linux" width="45" height="42"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" alt="linux" width="45" height="42"/>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png" alt="heroku" width="40" height="40"/>
   <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="40" height="40"/>
   <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40"/>
-  <img src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-2.png" alt="photoshop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1200px-Adobe_Photoshop_Express_logo.svg.png" alt="photoshop" width="40" height="40"/>
   
   
 </p>
