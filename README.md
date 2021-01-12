@@ -53,15 +53,16 @@
 
 <p align="center">
   <span>Others</span><br><br>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>    
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="git" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/pycharm/pycharm-original-wordmark.svg" alt="git" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain-wordmark.svg" alt="git" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="git" width="40" height="40"/>
+  <img src="https://railsware.com/blog/wp-content/uploads/2018/08/React-Native-vs-Native-Development_Icon-1-180x180.png" alt="reactnative" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png" alt="electron"           width="40" height="40"/>    
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" alt="pycharm" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png" alt="heroku" width="40" height="40"/>
+  <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="40" height="40"/>
+  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40"/>
+  <img src="https://i.dlpng.com/static/png/7212070_preview.png" alt="photoshop" width="40" height="40"/>
   
   
 </p>
