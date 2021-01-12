@@ -15,12 +15,12 @@
 
 <p align="left">
   <span>Front-End</span><br><br>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/>
+<img src="https://img.pngio.com/javascript-programming-language-flat-transparent-png-svg-vector-javascript-png-512_512.png" alt="javascript" width="40" height="40"/>
+<img src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4" alt="bootstrap" width="40" height="40"/>
 <img src="https://colinstodd.com/images/posts/matcss-min.png" alt="materializeCSS" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" alt="html5" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/1008/538/png-transparent-web-development-html-cascading-style-sheets-css3-world-wide-web-angle-web-design-logo.png" alt="css3" width="40" height="40"/>
 </p>
 
 <p align="center"> 
