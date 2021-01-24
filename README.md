@@ -20,7 +20,7 @@
 <img src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4" alt="bootstrap" width="40" height="40"/>
 <img src="https://colinstodd.com/images/posts/matcss-min.png" alt="materializeCSS" width="40" height="40"/> 
 <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" alt="html5" width="40" height="40"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/888/888847.svg?token=exp=1610451842~hmac=62ee06fb42ee194d64f422b645e254b8" alt="css3" width="40" height="40"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="40" height="40"/>
 </p>
 
 <p align="center"> 
