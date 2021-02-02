@@ -26,7 +26,7 @@
 <p align="center"> 
   <span>Programming Languages</span><br><br>
 <img src="https://cdn.iconscout.com/icon/free/png-256/rust-458183.png" alt="rust" width="40" height="40"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1610451927~hmac=270bfdfe912325845f463214df11fb34" alt="python" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/c-sharp-2-569585.png" alt="csharp" width="40" height="40"/> 
 </p>
 
@@ -34,7 +34,7 @@
   <span>Back-End</span><br><br>
   <img src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png" alt="django" width="40" height="40"/>
   <img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" alt="flask" width="72" height="40"/>
-  <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/>
+<!--   <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/> -->
 </p>
 
 <p align="center">
