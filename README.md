@@ -58,7 +58,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png" alt="electron"           width="40" height="40"/>    
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" width="40" height="40"/>
-  <img src=" https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/>
   <img src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" alt="pycharm" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png" alt="heroku" width="40" height="40"/>
   <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="40" height="40"/>
