@@ -1,22 +1,18 @@
 # 👋 Hello! I'm Muhammad Sameem
 
-- - - -
+### <p align="center"><em>"Fine, I will do it myself"</em></p>
 
-### <p align="center">"Fine, I will do it myself"</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sameem420&label=Views&color=yellow&style=flat" alt="X-SLAYER" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameem420&label=Views&color=yellow&style=flat" alt="X-SLAYER" /> </p>
-- - - -
-
-## Tech I work with
+## Tech
 
 <p align="left">
-  <span>Front-End</span><br><br>
-<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/>
-<img src="https://img.pngio.com/javascript-programming-language-flat-transparent-png-svg-vector-javascript-png-512_512.png" alt="javascript" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="css" width="30" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="javascript" width="40" height="40"/>
 <img src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4" alt="bootstrap" width="40" height="40"/>
-<img src="https://colinstodd.com/images/posts/matcss-min.png" alt="materializeCSS" width="40" height="40"/> 
-<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.svg" alt="html5" width="40" height="40"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="40" height="40"/>
+<img src="https://angularjs.org/img/ng-logo.png" alt="AngularJS" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="react" width="40" height="40"/>
 </p>
 
 <p align="center"> 
@@ -38,9 +34,8 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="sql server" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="36" height="36"/>
 </p>
-
 <p align="center">
   <span>Operating Systems</span><br><br>
   <img src="https://icons-for-free.com/iconfiles/png/512/logo+microsoft+microsoft+logo+technology+windows+icon-1320167831167856453.png" alt="windows" width="42" height="42"/>
