@@ -10,22 +10,23 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="css" width="30" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="JQuery" width="40" height="40" />
 <img src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4" alt="bootstrap" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Font_Awesome_logomark_blue.svg/1200px-Font_Awesome_logomark_blue.svg.png" alt="Font Awesome" width="40" height="40" />
+  <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart JS" width="40" height="40" />
 <img src="https://angularjs.org/img/ng-logo.png" alt="AngularJS" width="40" height="40"/>
-<img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="react" width="40" height="40"/>
+<img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="react" width="40" height="40"/>
 </p>
 
 <p align="center"> 
-  <span>Programming Languages</span><br><br>
 <img src="https://cdn.iconscout.com/icon/free/png-256/rust-458183.png" alt="rust" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/c-sharp-2-569585.png" alt="csharp" width="40" height="40"/> 
 </p>
 
 <p align="right">
-  <span>Back-End</span><br><br>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png" alt="django" width="40" height="40"/>
-  <img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" alt="flask" width="72" height="40"/>
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="django" width="42" height="48"/>
+  <img src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb" alt="flask" width="40" height="40"/>
 <!--   <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/> -->
 </p>
 
