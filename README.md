@@ -1,14 +1,10 @@
-## Hi, I'm Sameem 👋, a Developer :rocket: from Pakistan :pakistan:
-
-
-![](https://www.reactiongifs.com/r/ktpng.gif)
+# 👋 Hello! I'm Muhammad Sameem
 
 - - - -
 
-#### <p align="center"> I am a 3rd-year Undergraduate Student, pursuing a Bachelors in Computer Science, who is passionate about *Internet of Things* , *Web & Mobile App Development*, and *Open source* :shipit:. I love to learn and contribute in any and every possible way.
-</p>
+### <p align="center">"Fine, I will do it myself"</p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameem420&label=Views&color=yellow&style=flat" alt="X-SLAYER" /> </p>
 - - - -
 
 ## Tech I work with
