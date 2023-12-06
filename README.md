@@ -38,9 +38,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="36" height="36"/>
 </p>
 <p align="center">
-  <span>Operating Systems</span><br><br>
-  <img src="https://icons-for-free.com/iconfiles/png/512/logo+microsoft+microsoft+logo+technology+windows+icon-1320167831167856453.png" alt="windows" width="42" height="42"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" alt="linux" width="45" height="42"/>
+  <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png" alt="windows" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/480px-Former_Ubuntu_logo.svg.png" alt="ubuntu" width="40" height="40"/>
 </p>
 
 <p align="center">
