@@ -31,10 +31,10 @@
 </p>
 
 <p align="center">
-  <span>Databases</span><br><br>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="sql server" width="40" height="40"/>
+  <img src="https://sql.standout-dev.com/wp-content/uploads/2016/02/sqldev_512x512x32.png" alt="Oracle SQL Developer" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="36" height="36"/>
 </p>
 <p align="center">
