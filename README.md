@@ -1,10 +1,45 @@
-# 👋 Hello! I'm Muhammad Sameem
+# 👋 Hello!
 
 ### <p align="center"><em>"Fine, I will do it myself"</em></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sameem420&label=Views&color=yellow&style=flat" alt="sameem" /> </p>
 
-## Tech
+<br/><br/>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,angular,typescript,javascript,jquery,html,css,reactquery,redux,zustand,tailwindcss,sass,jest,testinglibrary,pwa,threejs&titles=true"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=leaflet,shadcn,daisyui,antdesign,materialui,vitest,chartjs,d3,alchemy,graphql,jquery,pnpm,socketio,vite,webpack"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,mongodb,git,github,anaconda,jupyter,huggingface,matplotlib,numpy,pandas,seaborn,tensorflow,pytorch,chatgpt,gemini"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,n8n,ollama,figma"
+    />
+  </a>
+</p>
+
+
+<br/><br/>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40" title="HTML" />
