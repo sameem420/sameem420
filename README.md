@@ -12,6 +12,19 @@
   <img src="https://komarev.com/ghpvc/?username=sameem420&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
+## 👨‍💻 About Me
+
+```typescript
+const sameem = {
+    name: "Muhammad Sameem",
+    location: "EMEA",
+    education: "BS (Hons) Computer Science",
+    roles: ["Full Stack Developer", "Software Developer"],
+    currentFocus: ["Machine Learning", "AI & LLMs", "System Design"],
+    lifePhilosophy: "Learning something new every day 🚀"
+};
+```
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
